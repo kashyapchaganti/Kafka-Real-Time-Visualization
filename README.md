@@ -4,6 +4,11 @@ A Real Time application that utilizes REST API, Socket.io, Kafka, and React.
 It consists of a backend server written in Express.js for consuming Kafka messages from topics and a frontend React component for displaying the consumed messages.
 
 
+
+https://github.com/kashyapchaganti/Kafka-Real-Time/assets/66533610/582fa777-0ff4-46f8-99b4-7d8bb27ce6e6
+
+
+
 ## Tech Stack
 
 - Kafka
