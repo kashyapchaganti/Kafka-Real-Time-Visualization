@@ -1,4 +1,4 @@
-# Kafka-Real-Time
+# Kafka-Real-Time-Visualization
 
 A Real Time application that utilizes REST API, Socket.io, Kafka, and React. 
 It consists of a backend server written in Express.js for consuming Kafka messages from topics and a frontend React component for displaying the consumed messages.
