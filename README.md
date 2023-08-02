@@ -6,8 +6,6 @@ It consists of a backend server written in Express.js for consuming Kafka messag
 
 
 
-
-
 https://github.com/kashyapchaganti/Kafka-Real-Time-Visualization/assets/66533610/710e5942-7204-4ed0-b9ef-e8a9009e4634
 
 
